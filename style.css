@@ -1,0 +1,6 @@
+h1 {color: blue;}
+ul li{color: darkgoldenrod;}
+ol li {color: green;} 
+img {border-style: solid; /* Tipo de borde */
+     border-color: crimson; /* Color del borde */
+     border-width: 5px;} /* Ancho del borde */
